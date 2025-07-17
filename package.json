@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/resena-de-trade24sev",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a resena-de-trade24sev",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/resena-de-trade24sev.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://exe2aut.com/es/resena-de-trade24seven/"
+    },
+    "homepage": "https://exe2aut.com/es/resena-de-trade24seven/"
+}
